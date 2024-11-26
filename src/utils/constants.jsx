@@ -1,0 +1,7 @@
+export const LOGO_URL ="<PLEASE USE THE LOGO OF FOOD APP URL HERE>"
+
+export const CDN_URL="<PLEASE USE THE IMAGE COMMON URL HERE>";
+
+
+
+
